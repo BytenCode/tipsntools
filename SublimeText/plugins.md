@@ -3,6 +3,7 @@
 ## General Editor
 
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): a plugin to add enhancements to Sublime Text sidebar.
+* [PrettyJson](https://github.com/dzhibas/SublimePrettyJson): a plugin to indent and worlk on json files (concat, minify, convert to XML)
 
 ## Code Conventions
 
