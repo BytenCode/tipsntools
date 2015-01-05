@@ -34,3 +34,5 @@
 
 [Angular Dynamic Locale](https://github.com/lgalfaso/angular-dynamic-locale) : This module alows you update your app's locale dynamically.
 
+## Other Stuff
+[Ng-Idle](https://github.com/HackedByChinese/ng-idle): This module alows for the tracking of idle user and can trigger a response (logout, data refresh, etc...)
